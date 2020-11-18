@@ -1,0 +1,46 @@
+Listado de participantes
+id,firstname,lastname,age,gender,shots,bestShot,averageShot
+1,Ivo,Di Martino,21,M,"[92.0, 67.0, 29.0]",92.0,31.0
+2,Emmanuel,Iamtosca,24,M,"[63.0, 44.0, 63.0]",63.0,21.0
+3,Nere,Harthford,26,F,"[17.0, 36.0, 64.0]",17.0,6.0
+4,Syralin,Acton,32,F,"[61.0, 77.0, 65.0]",61.0,20.0
+"
+Tres mejores participantes"
+id,firstname,lastname,bestshot
+1,Ivo,Di Martino,
+2,Emmanuel,Iamtosca,
+4,Syralin,Acton,
+"
+El participante que salio ultimo fue"
+id,firstname,lastname,bestshot
+3,Nere,Harthford,
+"
+Cantidad de participantes: "
+4
+"
+Cantidad de participantes varones: "
+2
+"
+Edad promedio de participantes mujeres: "
+29.0
+"
+Listado de participantes por edad "
+id,firstname,lastname,age,gender,shots,bestShot,averageShot
+1,Ivo,Di Martino,21,M,"[92.0, 67.0, 29.0]",92.0,31.0
+2,Emmanuel,Iamtosca,24,M,"[63.0, 44.0, 63.0]",63.0,21.0
+3,Nere,Harthford,26,F,"[17.0, 36.0, 64.0]",17.0,6.0
+4,Syralin,Acton,32,F,"[61.0, 77.0, 65.0]",61.0,20.0
+"
+Promedio de los disparos: "
+20.0
+"
+Participantes por encima del promedio: "
+id,firstname,lastname,age,gender,shots,bestShot,averageShot
+1,Ivo,Di Martino,21,M,"[92.0, 67.0, 29.0]",92.0,31.0
+2,Emmanuel,Iamtosca,24,M,"[63.0, 44.0, 63.0]",63.0,21.0
+Listado de participantes - Mejor disparo								
+ID	Nombre	Apellido	Edad	Género	Disparo 1	Disparo 2	Disparo 3	Mejor Disparo
+0	Nere	Harthford	26	Femenino	17	36	64	17
+0	Ivo	Di Martino	21	Masculino	92	67	29	29
+0	Emmanuel	Iamtosca	24	Masculino	63	44	63	44
+0	Syralin	Acton	32	Femenino	61	77	65	61
